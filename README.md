@@ -21,7 +21,7 @@ from a corporate deliberation exercise (EDF).
 the top-rated ideas (Recall@25% = 0.667), outperforming a trained 
 quality-attributes classifier (0.35) and direct prompting (0.43–0.49).
 The classifier underperformed on real data because it over-relied on 
-idea length — a finding we call the "length trap."
+idea length, a finding we call the "length trap."
 
 ---
 
@@ -40,9 +40,9 @@ idea length — a finding we call the "length trap."
 ---
 
 ## Repository structure
-notebooks/       — one notebook per method, numbered in order
-data/            — data description (real EDF data not included; see note)
-results/         — summary of outputs; full results in the thesis
+- notebooks/       : one notebook per method, numbered in order
+- data/            : data description (real EDF data not included; see note)
+- results/         : summary of outputs; full results in the thesis
 
 ---
 

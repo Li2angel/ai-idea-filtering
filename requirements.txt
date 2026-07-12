@@ -1,0 +1,8 @@
+google-generativeai
+scikit-learn
+xgboost
+choix
+pandas
+numpy
+matplotlib
+seaborn
